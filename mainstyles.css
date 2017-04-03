@@ -1,0 +1,51 @@
+@charset "utf-8";
+tbody tr td {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	text-shadow: 0px 0px;
+	border-width: thick;
+	border-style: groove;
+}
+.ANNOUNCEMENTS {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: x-large;
+	text-align: center;
+}
+.ABOUT {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: large;
+}
+
+
+.COMPETITION.LADDER {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: xx-large;
+	text-align: center;
+}
+.ABOUT.INFO {
+	text-align: left;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+}
+
+.Sub.Section {
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: xx-large;
+}
+
+.ANNOUNCEMENTS .HEAD {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: xx-large;
+}
+.CALL.TO.ACTION {
+	text-align: center;
+}
+.COMP.LADDER {
+	text-align: center;
+}
+.TOP {
+	text-align: center;
+}
