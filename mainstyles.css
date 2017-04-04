@@ -86,3 +86,42 @@
 .PLAYING.GUIDELINES {
 	text-align: center;
 }
+.Contact.Header {
+	text-align: center;
+}
+.Contact.Image {
+	text-align: center;
+}
+.Contact.Info {
+	text-align: center;
+	font-style: normal;
+	font-size: xx-large;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.SUB.LINKS table {
+	text-align: center;
+	font-size: xx-large;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	margin-left: 550px;
+}
+.SUB.LINKS {
+	text-align: center;
+}
+.LINKS table {
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: xx-large;
+	margin-left: 550px;
+}
+.LINKS {
+	text-align: center;
+}
+.SUB-LINKS table {
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: xx-large;
+	margin-left: 550px;
+}
+.SUB-LINKS {
+	text-align: center;
+}
