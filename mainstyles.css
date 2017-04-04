@@ -1,12 +1,4 @@
 @charset "utf-8";
-tbody tr td {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-	font-size: xx-large;
-	text-align: center;
-	text-shadow: 0px 0px;
-	border-width: thick;
-	border-style: groove;
-}
 .ANNOUNCEMENTS {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 	font-size: x-large;
@@ -45,7 +37,52 @@ tbody tr td {
 }
 .COMP.LADDER {
 	text-align: center;
+	margin-left: 700px;
 }
+.COMP.LADDER table {
+	border-width: medium;
+	border-style: ridge;
+	font-style: normal;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+}
+
 .TOP {
+	text-align: center;
+}
+.Sign.up.Header {
+	text-align: center;
+}
+.IMAGES.SIGN.UP.PAGE {
+	text-align: center;
+}
+
+.SIGN.UP.FORM {
+	font-style: normal;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: left;
+	font-size: medium;
+}
+.Who.Can.Play {
+	text-align: center;
+}
+.WHO.CAN.PLAY.INFO {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	text-align: center;
+}
+.SIGN.UP.FORM table {
+	text-align: left;
+	margin-left: 550px;
+}
+
+
+
+.PG.INFO {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	text-align: center;
+}
+.PLAYING.GUIDELINES {
 	text-align: center;
 }
